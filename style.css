@@ -1,6 +1,12 @@
+body{
+	background-image: url("background.png");
+}
+
 h2{
 	color: #5b7e7e;
 }
+
+
 
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light{
 	color: #4f6f6f;
@@ -11,13 +17,28 @@ h2{
 }
 
 .container{
-	/*background-color: green;*/
+	background-color: white;
+	width: 960px;
+	margin: 50px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 h1{
-		color:#4aaaa5;
-	font-size: 30px;
+	color:#4aaaa5;
+	font-size: 35px;
 	font-family: Georgia, Times, "Times New Roman", serif;
 	font-weight: bold;
-	padding-left: 30px;
+	padding: 50px;
+	padding-bottom: 30px;
+}
+
+.caption{
+	font-family: Georgia, Times, "Times New Roman", serif;
+	width: 100%;
+	padding: 50px;
+	margin-top: 10px;
+	/*text-align: center;	*/
+	font-size: 20px;
+	color: #858585;
 }
