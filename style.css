@@ -3,5 +3,21 @@ h2{
 }
 
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light{
-	color: #5b7e7e;
+	color: #4f6f6f;
+}
+
+.navbar-light .navbar-brand {
+	color:#777777;
+}
+
+.container{
+	/*background-color: green;*/
+}
+
+h1{
+		color:#4aaaa5;
+	font-size: 30px;
+	font-family: Georgia, Times, "Times New Roman", serif;
+	font-weight: bold;
+	padding-left: 30px;
 }
