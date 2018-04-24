@@ -2,11 +2,13 @@ body{
 	background-image: url("background.png");
 }
 
+/* navbar name styling */
 h2{
 	color: #5b7e7e;
 	padding-right: 20px;
 }
 
+/* navbar styling */
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light{
 	color: #4f6f6f;
 }
@@ -21,8 +23,10 @@ h2{
 	margin: 50px;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 120px;
 }
 
+/*  page header styling */
 h1{
 	color:#4aaaa5;
 	font-size: 35px;
@@ -32,11 +36,14 @@ h1{
 	padding-bottom: 30px;
 }
 
+
+/* index.html styling  */
 .image{
-	float: left;
 	padding: 30px;
 	padding-top: 0px;
 }
+
+
 .filler{
 	margin-right: 30px;
 	margin-left: 30px;
@@ -44,9 +51,7 @@ h1{
 
 
 
-
-
-
+/*Portfolio Styling*/
 .caption{
 	font-family: Georgia, Times, "Times New Roman", serif;
 	width: 100%;
@@ -65,3 +70,5 @@ p{
 form{
 	padding: 30px;
 }
+
+
